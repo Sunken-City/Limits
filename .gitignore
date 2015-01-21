@@ -229,40 +229,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-Unity/Temp/UnityLockfile
-Unity/Library/AnnotationManager
-Unity/Library/assetDatabase3
-Unity/Library/AssetImportState
-Unity/Library/AssetServerCacheV3
-*.prefs
+
+# Unity files
 *.asset
-Unity/Library/FailedAssetImports.txt
-Unity/Library/guidmapper
-Unity/Library/metadata/00/00000000000000001000000000000000
-Unity/Library/CurrentLayout.dwlt
-Unity/Library/ScriptAssemblies/Assembly-CSharp.dll
-Unity/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
-Unity/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
-Unity/Library/ScriptMapper
-Unity/Library/metadata/00/00000000000000007000000000000000
-Unity/Library/metadata/00/00000000000000006100000000000000
-Unity/Library/metadata/00/00000000000000008000000000000000
-Unity/Library/metadata/00/00000000000000006000000000000000
-Unity/Library/metadata/00/00000000000000009000000000000000
-Unity/Library/metadata/00/0000000000000000b000000000000000
-Unity/Library/metadata/00/0000000000000000c000000000000000
-Unity/Library/ScriptAssemblies/CompilationCompleted.txt
-Unity/Library/metadata/32/32c196edbc826c045aac4b20213bc3b8
-Unity/Library/metadata/00/00000000000000002000000000000000
-Unity/Library/metadata/00/00000000000000003000000000000000
-Unity/Library/metadata/00/00000000000000004000000000000000
-Unity/Library/metadata/00/00000000000000004100000000000000
-Unity/Library/metadata/00/00000000000000005000000000000000
-Unity/Library/metadata/00/00000000000000005100000000000000
-Unity/Library/metadata/00/0000000000000000a000000000000000
-Unity/Library/metadata/6d/6d9560e54396e4043860afbf642cc26d
-Unity/Library/metadata/e6/e60bba0efd9e52c47aa4a04f66247785
-Unity/Temp/UnityTempFile-fe343013365e73645899044f1256f6c3
-Unity/Temp/__EditModeScene
 Unity/Library/*
 Unity/Temp/*
