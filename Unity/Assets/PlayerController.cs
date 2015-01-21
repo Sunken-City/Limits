@@ -20,8 +20,10 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         float horizontal = Input.GetAxis("Horizontal");
-        float horizontalSpeed = horizontal * speed * Time.deltaTime;
-        transform.position += new Vector3(horizontalSpeed, 0f, 0f);
+        float horizontalSpeed = horizontal * speed;
+        rigidbody2D.velocity = new Vector2(horizontalSpeed, rigidbody2D.velocity.y);
+
+        //Flipping
         if (horizontalSpeed < 0)
             facingFlipped = true;
         else if (horizontalSpeed > 0)
